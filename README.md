@@ -1,7 +1,7 @@
 # Noire Store
 
 <p align="left">
-  <img src="logo.png" alt="Cal.Cy" width="200">
+  <img src="logo.png" alt="noire Store" width="200">
 </p>
 
 **Noire Store** — минималистичный магазин приложений и игр для Android, выполненный в глубокой монохромной OLED-палитре.
